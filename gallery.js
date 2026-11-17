@@ -345,5 +345,12 @@ const galleryData = [
     category: "originals",
     description: "Heartfelt portrait of a close friend and her daughter.",
     size: "270x270 px"
-  }
+  },
+  {
+    src: "Arte/halloween.png",
+    name: "Halloween Sopaipillas",
+    category: "pop-culture",
+    description: "Classic horror icons gathered around a traditional sopaipillas cart in pixel art.",
+    size: "600x200 px"
+}
 ];
