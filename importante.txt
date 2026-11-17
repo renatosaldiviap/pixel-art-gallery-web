@@ -1,0 +1,5 @@
+Cada vez que quiera modificar una imagen, abrir Git Bash y copiar:
+
+git add Arte/
+git commit -m "art: update sprite details"
+git push origin master
